@@ -1,0 +1,3 @@
+copiar clipboard.dll para c:\
+abrir cmd como adm
+usar comando regsvr32 c:\clipboard.dll
